@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="acm">
+  <library name="acm1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/Assignment2/acm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/acm.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
